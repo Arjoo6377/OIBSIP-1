@@ -1,0 +1,42 @@
+
+.model2
+{
+    justify-content:start;
+    float:right;
+    color:brown
+
+
+}
+.name
+{
+    background-color: black;
+    color:white;
+}
+.mod
+{
+    width:280px;
+    background-color:brown;
+    color:white;
+    margin-left: 20px;
+    padding-left: 20px;
+    margin-top: 0;
+
+}
+.abc
+{
+    text-align:right;
+    object-position: top;
+}
+p
+{
+color:azure;
+text-align:left;
+}
+.ca
+{
+text-align:right;
+}
+.sa
+{
+    background-color:brown;
+}
